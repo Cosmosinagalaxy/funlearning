@@ -8,12 +8,12 @@
 
 
 <h2 style="color:green;">Sports Games </h2>
+[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html) Working
 
-
-[1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html)
+[1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html) working
 <h2 style="color:#5e040e;">Shooter Games</h2>
 
-[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html)
+
 
   [1v1 Lol](https://games.imc.re/ngs/1v1lol/) working 
 
@@ -21,12 +21,12 @@
  [Armed Forces](https://anchorxandthe.world/games/armedforces) not working 
  <h2 style="color:royalblue;">Simulator Games </h2>
 
-[Bottle Flip](https://cosmosinagalaxy.github.io/Funmath/bottleflip.html)
+[Bottle Flip](https://cosmosinagalaxy.github.io/Funmath/bottleflip.html) bugged
    
 [Cookie Clicker](https://jetyuh.github.io/cookie-clicker/) working
 
 
-[Eggy Car](https://cosmosinagalaxy.github.io/Funmath/eggycar.html)
+[Eggy Car](https://cosmosinagalaxy.github.io/Funmath/eggycar.html) working
 
 
 
