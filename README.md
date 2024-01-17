@@ -9,7 +9,7 @@
 
 <h2 style="color:green;">Sports Games </h2>
 
-[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html)
+[Idle Soccer](https://cosmosinagalaxy.github.io/Funmath/idlesoccer.html) working
 
 [1v1 Basketball](https://cosmosinagalaxy.github.io/Funmath/1v1basketball.html) working
 <h2 style="color:#5e040e;">Shooter Games</h2>
